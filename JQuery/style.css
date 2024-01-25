@@ -1,0 +1,14 @@
+/* changing css using Jquery with addClass method in css */
+
+
+.change-class{
+    color: red;
+    
+    font-family: cursive;
+}
+
+.change-location{
+    justify-content: center;
+    font-size: 5rem;
+    
+}
